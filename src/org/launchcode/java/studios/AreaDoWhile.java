@@ -2,7 +2,7 @@ package org.launchcode.java.studios;
 
 import java.util.Scanner;
 
-public class area_do_while {
+public class AreaDoWhile {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         System.out.println("I will calculate the area of a circle.");
